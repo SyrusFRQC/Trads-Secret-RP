@@ -2245,7 +2245,7 @@ return {
 	},
 
 	["crispy_chicken_staco"] = {
-		label = "Crispy Chicken Soft Taco",
+		label = "Taco moelleux au poulet croustillant",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2254,7 +2254,7 @@ return {
 	},
 
 	["crispy_tenders"] = {
-		label = "8 PC MEAL FOR 2 CRISPY TENDERS",
+		label = "REPAS 8 PC POUR 2 TENDERS CROUSTILLANTES",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2263,7 +2263,7 @@ return {
 	},
 
 	["crispy_tender_combo"] = {
-		label = "LARGE 5 PC CRISPY TENDER COMBO",
+		label = "GRAND COMBO DE 5 TENDERS CROUSTILLANTS",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2272,7 +2272,7 @@ return {
 	},
 
 	["croissanwich_meal"] = {
-		label = "Sausage, Egg & Cheese Small",
+		label = "Saucisse, œuf et petit fromage",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2281,7 +2281,7 @@ return {
 	},
 
 	["crowex_black"] = {
-		label = "Crowex Black",
+		label = "Crowex Noir",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2290,7 +2290,7 @@ return {
 	},
 
 	["crowex_brown"] = {
-		label = "Crowex Brown",
+		label = "Crowex Marron",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2299,7 +2299,7 @@ return {
 	},
 
 	["crunchwrap_supreme"] = {
-		label = "Crunchwrap Supreme",
+		label = "Crunchwrap Suprême",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2308,7 +2308,7 @@ return {
 	},
 
 	["crunchwrap_supreme_meal"] = {
-		label = "Crunchwrap Supreme Meal",
+		label = "Repas Suprême Crunchwrap",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2317,7 +2317,7 @@ return {
 	},
 
 	["crunchytaco"] = {
-		label = "Crunchy Taco",
+		label = "Tacos croquants",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2326,7 +2326,7 @@ return {
 	},
 
 	["crunchy_taco_supreme"] = {
-		label = "Crunchy Taco Supreme",
+		label = "Taco Suprême Croquant",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2335,7 +2335,7 @@ return {
 	},
 
 	["cucumber"] = {
-		label = "Cucumber",
+		label = "Concombre",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2344,7 +2344,7 @@ return {
 	},
 
 	["cuff"] = {
-		label = "Handcuffs",
+		label = "Menottes",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2352,7 +2352,7 @@ return {
 	},
 
 	["curacao"] = {
-		label = "Orange Curacao liqeur",
+		label = "Liqueur d'orange Curaçao",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2361,7 +2361,7 @@ return {
 	},
 
 	["cutted_wood"] = {
-		label = "Cut wood",
+		label = "Couper du bois",
 		weight = 5000,
 		stack = true,
 		close = true,
@@ -2370,14 +2370,14 @@ return {
 	},
 
 	["dab"] = {
-		label = "DAB",
+		label = "touche",
 		weight = 250.0,
 		stack = true,
 		close = true,
 	},
 
 	["darkplat_earrings"] = {
-		label = "Darkplat Earrings",
+		label = "Boucles d'oreilles Darkplat",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2385,7 +2385,7 @@ return {
 	},
 
 	["dark_rum"] = {
-		label = "Dark rum",
+		label = "Rhum brun",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2394,7 +2394,7 @@ return {
 	},
 
 	["deluxe_chicken_sandwich"] = {
-		label = "Ch King Deluxe Chicken Sandwich",
+		label = "Sandwich au poulet de luxe Ch King",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2403,7 +2403,7 @@ return {
 	},
 
 	["deluxe_crispy_sandwich_combo"] = {
-		label = "Deluxe Crispy Sandwich Combo",
+		label = "Combo sandwich croustillant de luxe",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2412,7 +2412,7 @@ return {
 	},
 
 	["deluxe_sandwich"] = {
-		label = "Deluxe Sandwich",
+		label = "Sandwich de luxe",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2421,8 +2421,8 @@ return {
 	},
 
 	["detector"] = {
-		label = "Detector",
-		description = "Search hidden treasure at prospecting",
+		label = "Détecteur",
+		description = "Rechercher un trésor caché lors de la prospection",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2431,7 +2431,7 @@ return {
 	},
 
 	["diagold_earrings"] = {
-		label = "Diagold Earrings",
+		label = "Boucles d'oreilles Diagold",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2439,7 +2439,7 @@ return {
 	},
 
 	["diamond"] = {
-		label = "Diamond",
+		label = "Diamant",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2447,7 +2447,7 @@ return {
 	},
 
 	["dianecklace"] = {
-		label = "Dia Necklace",
+		label = "Collier Dia",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2455,7 +2455,7 @@ return {
 	},
 
 	["diaplatinum_earrings"] = {
-		label = "Diaplatinum Earrings",
+		label = "Boucles d'oreilles Diaplatine",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2463,7 +2463,7 @@ return {
 	},
 
 	["dia_box"] = {
-		label = "Diamond Box",
+		label = "Boîte à diamants",
 		weight = 500.0,
 		stack = true,
 		close = true,
@@ -2471,7 +2471,7 @@ return {
 	},
 
 	["diet_coke"] = {
-		label = "Diet Coke",
+		label = "Coca light",
 		weight = 300.0,
 		stack = true,
 		close = true,
@@ -2480,7 +2480,7 @@ return {
 	},
 
 	["diet_pepsi"] = {
-		label = "Diet Pepsi",
+		label = "Pepsi light",
 		weight = 400.0,
 		stack = true,
 		close = true,
@@ -2489,7 +2489,7 @@ return {
 	},
 
 	["dirty_bottle"] = {
-		label = "Dirty Bottle",
+		label = "Bouteille sale",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2498,7 +2498,7 @@ return {
 	},
 
 	["doghouse"] = {
-		label = "Doghouse",
+		label = "Niche à chien",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2507,7 +2507,7 @@ return {
 	},
 
 	["dom_perignon"] = {
-		label = "Dom Perignon",
+		label = "Dom Pérignon",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2525,7 +2525,7 @@ return {
 	},
 
 	["double_apple"] = {
-		label = "Nakhla Double Apple",
+		label = "Nakhla Double Pomme",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2543,7 +2543,7 @@ return {
 	},
 
 	["double_cup"] = {
-		label = "Double cup",
+		label = "Double tasse",
 		weight = 10.0,
 		stack = true,
 		close = true,
@@ -2552,7 +2552,7 @@ return {
 	},
 
 	["double_quarter_combo"] = {
-		label = "Double Quarter Combo",
+		label = "Combo Double Quart",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2561,7 +2561,7 @@ return {
 	},
 
 	["double_quarter_pounder"] = {
-		label = "Double Quarter Pounder",
+		label = "Double quart de livre",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2570,7 +2570,7 @@ return {
 	},
 
 	["double_sausage_biscuit"] = {
-		label = "Double Sausage, Egg, & Cheese",
+		label = "Double saucisse, œuf et fromage",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2579,7 +2579,7 @@ return {
 	},
 
 	["double_sausage_croissanwich"] = {
-		label = "Double Sausage, Egg, & Cheese",
+		label = "Double saucisse, œuf et fromage",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2588,7 +2588,7 @@ return {
 	},
 
 	["drill"] = {
-		label = "Drill",
+		label = "Percer",
 		weight = 6000,
 		stack = true,
 		close = true,
@@ -2597,7 +2597,7 @@ return {
 	},
 
 	["drone_flyer_1"] = {
-		label = "Basic Drone 1",
+		label = "Drone de base 1",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2606,7 +2606,7 @@ return {
 	},
 
 	["drone_flyer_2"] = {
-		label = "Basic Drone 2",
+		label = "Drone de base 2",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2615,7 +2615,7 @@ return {
 	},
 
 	["drone_flyer_3"] = {
-		label = "Basic Drone 3",
+		label = "Drone de base 3",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2624,7 +2624,7 @@ return {
 	},
 
 	["drone_flyer_4"] = {
-		label = "Advanced Drone 1",
+		label = "Drone avancé 1",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2633,7 +2633,7 @@ return {
 	},
 
 	["drone_flyer_5"] = {
-		label = "Advanced Drone 2",
+		label = "Drone avancé 2",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2642,7 +2642,7 @@ return {
 	},
 
 	["drone_flyer_6"] = {
-		label = "Advanced Drone 3",
+		label = "Drone avancé 3",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2651,7 +2651,7 @@ return {
 	},
 
 	["drone_flyer_7"] = {
-		label = "Police Drone",
+		label = "Drone de police",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2660,7 +2660,7 @@ return {
 	},
 
 	["drpepper"] = {
-		label = "Drpepper",
+		label = "Drpoivre",
 		weight = 250.0,
 		stack = true,
 		close = true,
@@ -2669,7 +2669,7 @@ return {
 	},
 
 	["dr_pepper"] = {
-		label = "Dr Pepper",
+		label = "Dr Poivre",
 		weight = 300.0,
 		stack = true,
 		close = true,
@@ -2678,7 +2678,7 @@ return {
 	},
 
 	["dslr"] = {
-		label = "DSLR",
+		label = "Reflex numérique",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2696,7 +2696,7 @@ return {
 	},
 
 	["dunkin_bacon_egg_cheese"] = {
-		label = "BACON, EGG & CHEESE",
+		label = "BACON, ŒUF ET FROMAGE",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2705,7 +2705,7 @@ return {
 	},
 
 	["dunkin_coffee"] = {
-		label = "COFFEE",
+		label = "CAFÉ",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2723,7 +2723,7 @@ return {
 	},
 
 	["dunkin_donuts"] = {
-		label = "DONUTS",
+		label = "BEIGNETS",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2732,7 +2732,7 @@ return {
 	},
 
 	["dunkin_hash_browns"] = {
-		label = "HASH BROWNS",
+		label = "Pommes de terre rissolées",
 		weight = 200.0,
 		stack = true,
 		close = true,
