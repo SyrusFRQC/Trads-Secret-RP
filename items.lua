@@ -2768,7 +2768,7 @@ return {
 	},
 
 	["dunkin_refresher"] = {
-		label = "DUNKIN REFRESHERS",
+		label = "RAFRAÎCHISSEURS DUNKIN",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2777,7 +2777,7 @@ return {
 	},
 
 	["dunkin_tea"] = {
-		label = "TEA",
+		label = "thé",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2822,7 +2822,7 @@ return {
 	},
 
 	["d_fruit_punch"] = {
-		label = "Fruit Punch",
+		label = "Punch aux fruits",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2840,7 +2840,7 @@ return {
 	},
 
 	["earrings_sgold"] = {
-		label = "Earrings SGold",
+		label = "Boucles d'oreilles SGold",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2848,7 +2848,7 @@ return {
 	},
 
 	["egg_cheese_biscuit"] = {
-		label = "Egg Cheese Biscuit",
+		label = "Biscuit aux œufs et au fromage",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2857,7 +2857,7 @@ return {
 	},
 
 	["egg_cheese_muffin"] = {
-		label = "Egg & Cheese Muffin",
+		label = "Muffin aux œufs et au fromage",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2866,7 +2866,7 @@ return {
 	},
 
 	["egg_mcmuffin"] = {
-		label = "Egg McMuffin",
+		label = "McMuffin aux œufs",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2875,7 +2875,7 @@ return {
 	},
 
 	["egg_normous_burrito"] = {
-		label = "Egg Normous Burrito",
+		label = "Burrito aux œufs normaux",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2884,7 +2884,7 @@ return {
 	},
 
 	["egg_white_grill"] = {
-		label = "Egg White Grill",
+		label = "Gril à blanc d'œuf",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2893,7 +2893,7 @@ return {
 	},
 
 	["el_patron"] = {
-		label = "Chaos El Patron",
+		label = "Le chaos du patron",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2902,7 +2902,7 @@ return {
 	},
 
 	["energy"] = {
-		label = "Energy",
+		label = "Énergie",
 		weight = 500.0,
 		stack = true,
 		close = true,
@@ -2911,7 +2911,7 @@ return {
 	},
 
 	["engine1"] = {
-		label = "Original Engine",
+		label = "Moteur d'origine",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2920,7 +2920,7 @@ return {
 	},
 
 	["engine2"] = {
-		label = "Engine Lvl. 1",
+		label = "Moteur Niv. 1",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2929,7 +2929,7 @@ return {
 	},
 
 	["engine3"] = {
-		label = "Engine Lvl. 2",
+		label = "Moteur Niv. 2",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2938,7 +2938,7 @@ return {
 	},
 
 	["engine4"] = {
-		label = "Engine Lvl. 3",
+		label = "Moteur Niv. 3",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2947,7 +2947,7 @@ return {
 	},
 
 	["engine5"] = {
-		label = "Engine Lvl. 4",
+		label = "Moteur Niv. 4",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2956,7 +2956,7 @@ return {
 	},
 
 	["english_muffin"] = {
-		label = "English Muffin",
+		label = "Muffin anglais",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2974,7 +2974,7 @@ return {
 	},
 
 	["essence"] = {
-		label = "Gas",
+		label = "Essence",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2992,7 +2992,7 @@ return {
 	},
 
 	["ether_joint"] = {
-		label = "Ether Joint",
+		label = "Joint d'éther",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -3001,7 +3001,7 @@ return {
 	},
 
 	["evidencebox"] = {
-		label = "Evidence Box",
+		label = "Boîte à outils",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -3018,7 +3018,7 @@ return {
 	},
 
 	["fabric"] = {
-		label = "Fabric",
+		label = "Tissu",
 		weight = 500.0,
 		stack = true,
 		close = true,
@@ -3027,7 +3027,7 @@ return {
 	},
 
 	["family_bundle_classic"] = {
-		label = "Family Bundle Classic",
+		label = "Offre groupée familiale classique",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -3045,7 +3045,7 @@ return {
 	},
 
 	["fentanyl_pill"] = {
-		label = "Fentanyl Pill",
+		label = "Pilule de Fentanyl",
 		weight = 10.0,
 		stack = true,
 		close = true,
@@ -3054,14 +3054,14 @@ return {
 	},
 
 	["fentanyl_pills"] = {
-		label = "Fentanyl Pills",
+		label = "Pilules de Fentanyl",
 		weight = 10.0,
 		stack = true,
 		close = true,
 	},
 
 	["fertilizer"] = {
-		label = "Fertilizer",
+		label = "Engrais",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -3070,7 +3070,7 @@ return {
 	},
 
 	["fine_china"] = {
-		label = "Fine China",
+		label = "Chine fine",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -3079,7 +3079,7 @@ return {
 	},
 
 	["fine_china_joint"] = {
-		label = "Fine China Joint",
+		label = "Joint de Chine fine",
 		weight = 400.0,
 		stack = true,
 		close = true,
@@ -3088,7 +3088,7 @@ return {
 	},
 
 	["fireworks"] = {
-		label = "Fireworks",
+		label = "Feux d'artifice",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -3097,7 +3097,7 @@ return {
 	},
 
 	["firstaid"] = {
-		label = "Firstaid",
+		label = "Premiers secours",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -3106,7 +3106,7 @@ return {
 	},
 
 	["fish"] = {
-		label = "Fish",
+		label = "Poisson",
 		weight = 800.0,
 		stack = true,
 		close = true,
@@ -3115,7 +3115,7 @@ return {
 	},
 
 	["fishcooler"] = {
-		label = "Fish Cooler",
+		label = "Glacière à poisson",
 		weight = 10000,
 		stack = true,
 		close = true,
@@ -3123,7 +3123,7 @@ return {
 	},
 
 	["fishingbait"] = {
-		label = "fishingbait",
+		label = "appât de pêche",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -3132,7 +3132,7 @@ return {
 	},
 
 	["fishingrod"] = {
-		label = "Fishingrod",
+		label = "Pêche à la truite",
 		weight = 1200.0,
 		stack = true,
 		close = true,
@@ -3141,7 +3141,7 @@ return {
 	},
 
 	["fishtaco"] = {
-		label = "Fish Taco",
+		label = "Tacos de poisson",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -3150,7 +3150,7 @@ return {
 	},
 
 	["fitbit"] = {
-		label = "Fitbit",
+		label = "Embout de fixation",
 		weight = 250.0,
 		stack = true,
 		close = true,
@@ -3159,8 +3159,8 @@ return {
 	},
 
 	["fixkit"] = {
-		label = "Fix Kit",
-		description = "Fix your vehicle",
+		label = "Kit de réparation",
+		description = "Réparez votre véhicule",
 		weight = 3000,
 		stack = true,
 		close = true,
@@ -3168,11 +3168,11 @@ return {
 	},
 
 	["fixtool"] = {
-		label = "Fix Tool",
+		label = "Outil de réparation",
 		weight = 1000,
 		stack = true,
 		close = true,
-		description = "Fix Vehicle",
+		description = "Réparer le véhicule",
 		decay = false,
 	},
 
@@ -3184,7 +3184,7 @@ return {
 	},
 
 	["flakka_joint"] = {
-		label = "Flakka Joint",
+		label = "Joint de Flakka",
 		weight = 20.0,
 		stack = true,
 		close = true,
@@ -3193,7 +3193,7 @@ return {
 	},
 
 	["foil"] = {
-		label = "Foil Paper",
+		label = "Papier d'aluminium",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -3201,7 +3201,7 @@ return {
 	},
 
 	["foil_poked"] = {
-		label = "Foil Poked",
+		label = "Feuilles d'aluminium",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -3210,7 +3210,7 @@ return {
 	},
 
 	["foil_poker"] = {
-		label = "Foil Poker",
+		label = "Feuilles d'aluminium",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -3219,7 +3219,7 @@ return {
 	},
 
 	["french_toast_sticks"] = {
-		label = "3 French Toast Sticks",
+		label = "3 bâtonnets de pain perdu",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -3228,7 +3228,7 @@ return {
 	},
 
 	["fresh_baked_rolls"] = {
-		label = "FRESH BAKED ROLLS",
+		label = "PETITS PAINS FRAIS",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -3237,7 +3237,7 @@ return {
 	},
 
 	["fresh_mix"] = {
-		label = "Fresh sour mix",
+		label = "Mélange acidulé frais",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -3246,7 +3246,7 @@ return {
 	},
 
 	["fried_calamari"] = {
-		label = "Fried Calamari",
+		label = "Calamars frits",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -3255,7 +3255,7 @@ return {
 	},
 
 	["fried_mushrooms"] = {
-		label = "Fried Mushrooms",
+		label = "Champignons frits",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -3264,7 +3264,7 @@ return {
 	},
 
 	["fried_scallops"] = {
-		label = "Fried Scallops",
+		label = "Coquilles Saint-Jacques fries",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -3273,7 +3273,7 @@ return {
 	},
 
 	["fries"] = {
-		label = "Fries",
+		label = "Fritures",
 		weight = 150.0,
 		stack = true,
 		close = true,
@@ -3282,7 +3282,7 @@ return {
 	},
 
 	["fries_grande"] = {
-		label = "Fries Grande",
+		label = "Grandes frites",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -3300,7 +3300,7 @@ return {
 	},
 
 	["frosted_coffee"] = {
-		label = "Frosted Coffee",
+		label = "Café glacé",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -3309,7 +3309,7 @@ return {
 	},
 
 	["frosted_lemonade"] = {
-		label = "Frosted Lemonade",
+		label = "Citronnade givrée",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -3327,7 +3327,7 @@ return {
 	},
 
 	["froties_joint"] = {
-		label = "Froties Joint",
+		label = "Joint de Froties",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -3336,7 +3336,7 @@ return {
 	},
 
 	["fruit_cup"] = {
-		label = "Fruit Cup",
+		label = "Coupe de fruits",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -3345,7 +3345,7 @@ return {
 	},
 
 	["garlic_parm_wings"] = {
-		label = "Garlic Parm Wings",
+		label = "Ailes à l'ail et au parmesan",
 		weight = 200.0,
 		stack = true,
 		close = true,
