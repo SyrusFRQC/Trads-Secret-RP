@@ -6462,9 +6462,9 @@ return {
 		decay = true,
 		
 	},
-
+-- ????
 	["runtz_og_joint"] = {
-		label = "Runtz OG Joint",
+		label = "Joint Runtz OG",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6473,7 +6473,7 @@ return {
 	},
 
 	["rustedrod"] = {
-		label = "Rusted Rod",
+		label = "Tige rouillée",
 		weight = 500.0,
 		stack = true,
 		close = true,
@@ -6482,7 +6482,7 @@ return {
 	},
 
 	["rustygun"] = {
-		label = "Rusty Gun",
+		label = "Pistolet rouillé",
 		weight = 500.0,
 		stack = true,
 		close = true,
@@ -6500,7 +6500,7 @@ return {
 	},
 
 	["salmon"] = {
-		label = "Salmon",
+		label = "Saumon",
 		weight = 400.0,
 		stack = true,
 		close = true,
@@ -6509,7 +6509,7 @@ return {
 	},
 
 	["salmon_caesar_salad"] = {
-		label = "Salmon Caesar Salad",
+		label = "Salade César au saumon",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6518,7 +6518,7 @@ return {
 	},
 
 	["sangria_lemonade"] = {
-		label = "Sangria Lemonade",
+		label = "Sangria et limonade",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -6527,7 +6527,7 @@ return {
 	},
 
 	["sausage_biscuit"] = {
-		label = "Sausage Biscuit",
+		label = "Biscuit à la saucisse",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6536,7 +6536,7 @@ return {
 	},
 
 	["sausage_burrito"] = {
-		label = "Sausage Burrito",
+		label = "Burrito à la saucisse",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6545,7 +6545,7 @@ return {
 	},
 
 	["sausage_croissanwich"] = {
-		label = "Sausage, Egg, & Cheese CroissanWich",
+		label = "CroissanWich à la saucisse, à l'œuf et au fromage",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6554,7 +6554,7 @@ return {
 	},
 
 	["sausage_egg_cheese"] = {
-		label = "Sausage, Egg & Cheese Biscuit",
+		label = "Biscuit à la saucisse, à l'œuf et au fromage",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6563,8 +6563,8 @@ return {
 	},
 
 	["scissors"] = {
-		label = "Scissors",
-		description = 'Used to cut grapes [Wine Maker]',
+		label = "Ciseaux",
+		description = 'Utilisé pour couper les raisins [Vigneron].',
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -6573,7 +6573,7 @@ return {
 	},
 
 	["scrapelectronics"] = {
-		label = "Scrapel Ectronics",
+		label = "Scrapel ectronique",
 		weight = 600.0,
 		stack = true,
 		close = true,
@@ -6581,7 +6581,7 @@ return {
 	},
 
 	["scrape_gold"] = {
-		label = "Scrape Gold",
+		label = "Gratter l'or",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -6589,7 +6589,7 @@ return {
 	},
 
 	["scrape_platinum"] = {
-		label = "Scrape Platinum",
+		label = "Gratter du platine",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -6598,7 +6598,7 @@ return {
 	},
 
 	["scubagear"] = {
-		label = "Scuba Gear",
+		label = "Matériel de plongée",
 		weight = 5000,
 		stack = true,
 		close = true,
@@ -6607,7 +6607,7 @@ return {
 	},
 
 	["seasoned_fries"] = {
-		label = "SEASONED FRIES",
+		label = "FRITES ASSAISONNÉES",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6616,7 +6616,7 @@ return {
 	},
 
 	["seed_brinjal"] = {
-		label = "Seed Brinjal",
+		label = "Graine de brinjal",
 		weight = 10.0,
 		stack = true,
 		close = true,
@@ -6625,7 +6625,7 @@ return {
 	},
 
 	["seed_cucumber"] = {
-		label = "Seed Cucumber",
+		label = "Concombre à graines",
 		weight = 10.0,
 		stack = true,
 		close = true,
@@ -6634,7 +6634,7 @@ return {
 	},
 
 	["seed_potato"] = {
-		label = "Seed Potato",
+		label = "Semences de pommes de terre",
 		weight = 10.0,
 		stack = true,
 		close = true,
@@ -6643,7 +6643,7 @@ return {
 	},
 
 	["seed_rice"] = {
-		label = "Seed Rice",
+		label = "Riz de semence",
 		weight = 10.0,
 		stack = true,
 		close = true,
@@ -6652,7 +6652,7 @@ return {
 	},
 
 	["seed_tomatoo"] = {
-		label = "Seed Tomatoo",
+		label = "Graine de tomate",
 		weight = 10.0,
 		stack = true,
 		close = true,
@@ -6661,7 +6661,7 @@ return {
 	},
 
 	["seed_weed"] = {
-		label = "Weed Seed",
+		label = "Graines de mauvaises herbes",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -6678,7 +6678,7 @@ return {
 	},
 
 	["shamrock_cookie"] = {
-		label = "Shamrock Cookie",
+		label = "Biscuits au trèfle",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6687,7 +6687,7 @@ return {
 	},
 
 	["shells_clam_chowder"] = {
-		label = "Shells Clam Chowder",
+		label = "Chaudrée de palourdes aux coquillages",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6696,7 +6696,7 @@ return {
 	},
 
 	["shell_case"] = {
-		label = "Shell Case",
+		label = "Coquille de protection",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -6705,7 +6705,7 @@ return {
 	},
 
 	["shoes"] = {
-		label = "Shoes",
+		label = "Chaussures",
 		weight = 400.0,
 		stack = true,
 		close = true,
@@ -6714,14 +6714,14 @@ return {
 	},
 
 	["shrimp"] = {
-		label = "Shrimp",
+		label = "Crevettes",
 		weight = 200.0,
 		stack = true,
 		close = true,
 	},
 
 	["shrimp_alfredo"] = {
-		label = "Shrimp Alfredo",
+		label = "Crevettes Alfredo",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6730,7 +6730,7 @@ return {
 	},
 
 	["shrimp_and_crab_dip"] = {
-		label = "Shrimp & Crab Dip",
+		label = "Trempette aux crevettes et au crabe",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6739,7 +6739,7 @@ return {
 	},
 
 	["shrimp_and_grits"] = {
-		label = "Shrimp & Grits",
+		label = "Crevettes et gruau",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -6748,14 +6748,14 @@ return {
 	},
 
 	["shrimp_packed"] = {
-		label = "Shrimp Packed",
+		label = "Crevettes emballées",
 		weight = 700.0,
 		stack = true,
 		close = true,
 	},
 
 	["shrimp_pasta"] = {
-		label = "Shrimp Pasta",
+		label = "Pâtes aux crevettes",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6764,7 +6764,7 @@ return {
 	},
 
 	["shroom"] = {
-		label = "Shroom",
+		label = "Champignon",
 		weight = 50.0,
 		stack = true,
 		close = true,
@@ -6773,23 +6773,23 @@ return {
 	},
 
 	["shroom_cut"] = {
-		label = "Shroom Cut",
+		label = "Coupe de champignons",
 		weight = 100.0,
 		stack = true,
 		close = true,
 		decay = true,
 		
 	},
-
+--- ???
 	["shroom_pooch"] = {
-		label = "Shroom Pooch",
+		label = "Chien de chambre",
 		weight = 250.0,
 		stack = true,
 		close = true,
 	},
 
 	["side_caesar_salad"] = {
-		label = "Side Caesar Salad",
+		label = "Salade César",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6798,7 +6798,7 @@ return {
 	},
 
 	["side_of_flavor"] = {
-		label = "SIDE OF FLAVOR",
+		label = "CÔTÉ DU GOÛT",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6807,7 +6807,7 @@ return {
 	},
 
 	["side_salad"] = {
-		label = "Side Salad",
+		label = "Salade d'accompagnement",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6816,7 +6816,7 @@ return {
 	},
 
 	["signature_chicken_box"] = {
-		label = "0.20Pc Mild Signature Chicken Box",
+		label = "0.20Pc Boîte de poulet doux Signature",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6825,7 +6825,7 @@ return {
 	},
 
 	["signature_latte"] = {
-		label = "SIGNATURE LATTE",
+		label = "CAFÉ LATTÉ SIGNATURE",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6834,7 +6834,7 @@ return {
 	},
 
 	["simply_orange"] = {
-		label = "Simply Orange",
+		label = "Simplement orange",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6843,8 +6843,8 @@ return {
 	},
 
 	["skateboard"] = {
-		label = "Skateboard",
-		description = "You don't have a car!",
+		label = "Planche à roulettes",
+		description = "Vous n'avez pas de voiture !",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -6853,7 +6853,7 @@ return {
 	},
 
 	["skull_bracelet"] = {
-		label = "Skull Bracelet",
+		label = "Bracelet tête de mort",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6862,7 +6862,7 @@ return {
 	},
 
 	["skull_earrings"] = {
-		label = "Skull Earrings",
+		label = "Boucles d'oreilles tête de mort",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6871,7 +6871,7 @@ return {
 	},
 
 	["slaughtered_chicken"] = {
-		label = "Slaughtered chicken",
+		label = "Poulet abattu",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -6880,7 +6880,7 @@ return {
 	},
 
 	["small_classic_fries"] = {
-		label = "Small Classic Fries",
+		label = "Petites frites classiques",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6889,7 +6889,7 @@ return {
 	},
 
 	["small_hash_browns"] = {
-		label = "Small Hash Browns",
+		label = "Petites pommes de terre rissolées",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6898,7 +6898,7 @@ return {
 	},
 
 	["small_onion_rings"] = {
-		label = "Small Onion Rings",
+		label = "Petites rondelles d'oignon",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6907,7 +6907,7 @@ return {
 	},
 
 	["smg_ammo_case"] = {
-		label = "Smg Ammo Case",
+		label = "Caisse de munitions SMG",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -6915,7 +6915,7 @@ return {
 	},
 
 	["smg_bullet"] = {
-		label = "Smg Bullet",
+		label = "Balle de SMG",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6942,7 +6942,7 @@ return {
 	},
 
 	["sniper_ammo_case"] = {
-		label = "Sniper Ammo Case",
+		label = "Mallette de munitions pour fusil de précision",
 		weight = 300.0,
 		stack = true,
 		close = true,
@@ -6950,7 +6950,7 @@ return {
 	},
 
 	["sniper_bullet"] = {
-		label = "Sniper Bullet",
+		label = "Balle de fusil de précision",
 		weight = 400.0,
 		stack = true,
 		close = true,
@@ -6959,16 +6959,16 @@ return {
 	},
 
 	["snow_man"] = {
-		label = "Snow Man",
+		label = "Bonhomme de neige",
 		weight = 1000,
 		stack = true,
 		close = true,
 		decay = true,
 		
 	},
-
+-- ????
 	["snow_man_joint"] = {
-		label = "Snow Man Joint",
+		label = "Joint Bonhomme de neige",
 		weight = 400.0,
 		stack = true,
 		close = true,
@@ -6977,7 +6977,7 @@ return {
 	},
 
 	["social_smoke"] = {
-		label = "Social Smoke Absolute Zero",
+		label = "Fumée sociale Zéro absolu",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -6986,7 +6986,7 @@ return {
 	},
 
 	["soft_serve_cone"] = {
-		label = "Soft Serve Cone",
+		label = "Cornet de glace",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -6995,7 +6995,7 @@ return {
 	},
 
 	["soft_serve_cup"] = {
-		label = "Soft Serve Cup",
+		label = "Coupe à dessert",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7004,7 +7004,7 @@ return {
 	},
 
 	["soft_taco"] = {
-		label = "Soft Taco",
+		label = "Taco doux",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7013,7 +7013,7 @@ return {
 	},
 
 	["soft_taco_supreme"] = {
-		label = "Soft Taco Supreme",
+		label = "Taco doux suprême",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7022,7 +7022,7 @@ return {
 	},
 
 	["sourdough_breakfast_sandwich"] = {
-		label = "ICED CAPPUCCINO",
+		label = "CAPPUCCINO GLACÉ",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7031,7 +7031,7 @@ return {
 	},
 
 	["sour_diesel"] = {
-		label = "Sour Diesel",
+		label = "Diesel acide",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7040,7 +7040,7 @@ return {
 	},
 
 	["sour_diesel_joint"] = {
-		label = "Sour Diesel Joint",
+		label = "Joint de gazole acide",
 		weight = 400.0,
 		stack = true,
 		close = true,
@@ -7049,7 +7049,7 @@ return {
 	},
 
 	["spades_fantasia"] = {
-		label = "Ace of Spades Fantasia",
+		label = "As de pique Fantasia",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7058,14 +7058,14 @@ return {
 	},
 
 	["speedball"] = {
-		label = "Speed Ball",
+		label = "Balle de vitesse",
 		weight = 100.0,
 		stack = true,
 		close = true,
 	},
 
 	["spice_joint"] = {
-		label = "Spice Joint",
+		label = "Joint d'épices",
 		weight = 10.0,
 		stack = true,
 		close = true,
@@ -7074,7 +7074,7 @@ return {
 	},
 
 	["spice_leaf"] = {
-		label = "Spice Leaf",
+		label = "Feuille d'épices",
 		weight = 80.0,
 		stack = true,
 		close = true,
@@ -7083,14 +7083,14 @@ return {
 	},
 
 	["spice_pooch"] = {
-		label = "Spice Pooch",
+		label = "Le chien des épices",
 		weight = 500.0,
 		stack = true,
 		close = true,
 	},
 
 	["spicy_chicken_burrito"] = {
-		label = "Spicy Chicken Burrito",
+		label = "Burrito au poulet épicé",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7099,7 +7099,7 @@ return {
 	},
 
 	["spicy_chicken_sandwich_combo"] = {
-		label = "Spicy Chicken Sandwich Combo",
+		label = "Sandwich au poulet épicé",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7108,7 +7108,7 @@ return {
 	},
 
 	["spicy_crispy_chicken_sandwich"] = {
-		label = "Spicy Crispy Chicken Sandwich",
+		label = "Sandwich au poulet croustillant et épicé",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7117,7 +7117,7 @@ return {
 	},
 
 	["spicy_deluxe"] = {
-		label = "Spicy Deluxe Crispy Chicken Sandwich",
+		label = "Sandwich au poulet croustillant épicé de luxe",
 		weight = 400.0,
 		stack = true,
 		close = true,
@@ -7126,7 +7126,7 @@ return {
 	},
 
 	["spicy_deluxe_sandwich"] = {
-		label = "Spicy Deluxe Sandwich",
+		label = "Sandwich de luxe épicé",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7135,7 +7135,7 @@ return {
 	},
 
 	["spicy_southwest_salad"] = {
-		label = "Spicy Southwest Salad",
+		label = "Salade épicée du sud-ouest",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7144,7 +7144,7 @@ return {
 	},
 
 	["spinach_feta"] = {
-		label = "Spinach & Feta",
+		label = "Épinards et feta",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7153,7 +7153,7 @@ return {
 	},
 
 	["spray"] = {
-		label = "Spray",
+		label = "Vaporisateur",
 		weight = 500.0,
 		stack = true,
 		close = true,
@@ -7162,7 +7162,7 @@ return {
 	},
 
 	["spray_remover"] = {
-		label = "Spray Remover",
+		label = "Décapant en spray",
 		weight = 250.0,
 		stack = true,
 		close = true,
@@ -7180,7 +7180,7 @@ return {
 	},
 
 	["steak_and_lobster_meal"] = {
-		label = "Steak & Lobster Meal",
+		label = "Repas steak et homard",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7189,14 +7189,14 @@ return {
 	},
 
 	["steroids"] = {
-		label = "Steroids",
+		label = "Stéroïdes",
 		weight = 300.0,
 		stack = true,
 		close = true,
 	},
 
 	["stingray"] = {
-		label = "Stingray",
+		label = "Raie",
 		weight = 600.0,
 		stack = true,
 		close = true,
@@ -7205,7 +7205,7 @@ return {
 	},
 
 	["stone"] = {
-		label = "Stone",
+		label = "Pierre",
 		weight = 10000,
 		stack = true,
 		close = true,
@@ -7214,7 +7214,7 @@ return {
 	},
 
 	["strawberry_banana_crepes"] = {
-		label = "Strawberry Banana Crepes",
+		label = "Crêpes aux fraises et à la banane",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7223,7 +7223,7 @@ return {
 	},
 
 	["strawberry_cheesecake_pie"] = {
-		label = "Strawberry Cheesecake Fried Pie",
+		label = "Tarte frite au gâteau au fromage et aux fraises",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7232,7 +7232,7 @@ return {
 	},
 
 	["strawberry_jam_cookie"] = {
-		label = "Strawberry Jam Cookie",
+		label = "Biscuits à la confiture de fraises",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7241,7 +7241,7 @@ return {
 	},
 
 	["strawberry_lemonade"] = {
-		label = "Chilled Strawberry Lemonade",
+		label = "Citronnade de fraises réfrigérée",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7250,7 +7250,7 @@ return {
 	},
 
 	["strawberry_milkshake"] = {
-		label = "Strawberry Milkshake",
+		label = "Milkshake à la fraise",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7259,7 +7259,7 @@ return {
 	},
 
 	["strawberry_nutella_waffles"] = {
-		label = "Strawberry Nutella Waffles",
+		label = "Gaufres aux fraises et au Nutella",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7268,7 +7268,7 @@ return {
 	},
 
 	["strawberry_shake"] = {
-		label = "Strawberry Shake",
+		label = "Milk-shake à la fraise",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7277,7 +7277,7 @@ return {
 	},
 
 	["strawberry_watermelon_slushie"] = {
-		label = "Strawberry Watermelon Slushie",
+		label = "Glace à la fraise et à la pastèque",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7286,7 +7286,7 @@ return {
 	},
 
 	["stretcher"] = {
-		label = "Stretcher",
+		label = "Brancard",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7295,7 +7295,7 @@ return {
 	},
 
 	["stripedbass"] = {
-		label = "Striped Bass",
+		label = "Bar rayé",
 		weight = 800.0,
 		stack = true,
 		close = true,
@@ -7304,7 +7304,7 @@ return {
 	},
 
 	["stuffed_bagel_minis"] = {
-		label = "STUFFED BAGEL MINIS",
+		label = "MINIS BAGELS FARCIS",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7313,7 +7313,7 @@ return {
 	},
 
 	["sundae_pie"] = {
-		label = "HERSHEYS Sundae Pie",
+		label = "Tarte au sundae de HERSHEYS",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7322,7 +7322,7 @@ return {
 	},
 
 	["sun_apple_juice"] = {
-		label = "Capri Sun Apple Juice",
+		label = "Jus de pomme Capri Sun",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7331,7 +7331,7 @@ return {
 	},
 
 	["surf_turf_combo"] = {
-		label = "Surf & Turf Small Combo",
+		label = "Petit combo Surf & Turf",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7340,7 +7340,7 @@ return {
 	},
 
 	["susp1"] = {
-		label = "Original Suspension",
+		label = "Suspension d'origine",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7349,7 +7349,7 @@ return {
 	},
 
 	["susp2"] = {
-		label = "Suspension Lvl. 1",
+		label = "Suspension Niv. 1",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7358,7 +7358,7 @@ return {
 	},
 
 	["susp3"] = {
-		label = "Suspension Lvl. 2",
+		label = "Suspension Niv. 2",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7367,7 +7367,7 @@ return {
 	},
 
 	["susp4"] = {
-		label = "Suspension Lvl. 3",
+		label = "Suspension Niv. 3",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7376,7 +7376,7 @@ return {
 	},
 
 	["susp5"] = {
-		label = "Suspension Lvl. 4",
+		label = "Suspension Niv. 4",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7385,7 +7385,7 @@ return {
 	},
 
 	["sweat_tea_sangria"] = {
-		label = "Sweat Tea Sangria",
+		label = "Sangria au thé",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7394,7 +7394,7 @@ return {
 	},
 
 	["sweet_tea"] = {
-		label = "Sweet Tea",
+		label = "Thé sucré",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7412,7 +7412,7 @@ return {
 	},
 
 	["syringe"] = {
-		label = "Syringe",
+		label = "Seringue",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -7421,7 +7421,7 @@ return {
 	},
 
 	["syrup"] = {
-		label = "Orgeat syrup",
+		label = "Sirop d'orgeat",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7430,7 +7430,7 @@ return {
 	},
 
 	["taco"] = {
-		label = "Taco",
+		label = "Tacos",
 		weight = 180.0,
 		stack = true,
 		close = true,
@@ -7448,7 +7448,7 @@ return {
 	},
 
 	["taco_regular"] = {
-		label = "Taco Regular",
+		label = "Taco ordinaire",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7464,7 +7464,7 @@ return {
 		decay = true,
 		
 	},
-
+--- ???
 	["tahoe_og_joint"] = {
 		label = "Tahoe OG Joint",
 		weight = 200.0,
@@ -7475,7 +7475,7 @@ return {
 	},
 
 	["tango_apple"] = {
-		label = "Tango Apple",
+		label = "Pomme Tango",
 		weight = 400.0,
 		stack = true,
 		close = true,
@@ -7493,7 +7493,7 @@ return {
 	},
 
 	["tenders_family_meal"] = {
-		label = "0.26Pc Tenders Family Meal Mild",
+		label = "0.26Pc Tenders repas familial doux",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7502,7 +7502,7 @@ return {
 	},
 
 	["tenders_medium_combo"] = {
-		label = "Tenders Medium Combo",
+		label = "Moyen menu Tenders",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7511,7 +7511,7 @@ return {
 	},
 
 	["tenders_medium_combo."] = {
-		label = "Tenders Medium Combo.",
+		label = "Moyen menu Tenders.",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7520,7 +7520,7 @@ return {
 	},
 
 	["tender_pack"] = {
-		label = "24PC CRISPY TENDER PACK",
+		label = "PAQUET DE 24 PIÈCES TENDRES ET CROUSTILLANTES",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7529,7 +7529,7 @@ return {
 	},
 
 	["tennisball"] = {
-		label = "Tennisball",
+		label = "Tennis de table",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7547,7 +7547,7 @@ return {
 	},
 
 	["testpack"] = {
-		label = "Test Pack",
+		label = "Pack de test",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -7565,7 +7565,7 @@ return {
 	},
 
 	["thermite_bomb"] = {
-		label = "Thermite Bomb",
+		label = "Bombe thermite",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7574,7 +7574,7 @@ return {
 	},
 
 	["thigh_bites_combo"] = {
-		label = "LARGE THIGH BITES COMBO",
+		label = "COMBO DE GROSSES BOUCHÉES DE CUISSE",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7583,7 +7583,7 @@ return {
 	},
 
 	["thirty_crispy_tenders."] = {
-		label = "30 CRISPY TENDERS",
+		label = "30 TENDERS CROUSTILLANTS",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7592,7 +7592,7 @@ return {
 	},
 
 	["threequarter_raglan_sleeve"] = {
-		label = "Three Quarter Raglan Sleeve",
+		label = "Manches raglan trois-quarts",
 		weight = 300.0,
 		stack = true,
 		close = true,
@@ -7601,7 +7601,7 @@ return {
 	},
 
 	["tilapia_fish_meal"] = {
-		label = "Steak & Lobster Meal",
+		label = "Repas steak et homard",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7610,7 +7610,7 @@ return {
 	},
 
 	["tint_army"] = {
-		label = "Tint Army",
+		label = "Teinture armée",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7618,7 +7618,7 @@ return {
 	},
 
 	["tint_black"] = {
-		label = "Tint Black",
+		label = "Teinture noire",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7626,7 +7626,7 @@ return {
 	},
 
 	["tint_gold"] = {
-		label = "Tint Gold",
+		label = "Teinture or",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7634,7 +7634,7 @@ return {
 	},
 
 	["tint_green"] = {
-		label = "Tint Green",
+		label = "Teinture verte",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7642,7 +7642,7 @@ return {
 	},
 
 	["tint_orange"] = {
-		label = "Tint Orange",
+		label = "Teinture orange",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7650,7 +7650,7 @@ return {
 	},
 
 	["tint_pink"] = {
-		label = "Tint Pink",
+		label = "Teinture rose",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7658,7 +7658,7 @@ return {
 	},
 
 	["tint_platinum"] = {
-		label = "Tint Platinum",
+		label = "Teinture platine",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7666,7 +7666,7 @@ return {
 	},
 
 	["tint_police"] = {
-		label = "Tint Police",
+		label = "Police des couleurs",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7674,7 +7674,7 @@ return {
 	},
 
 	["tomatoo"] = {
-		label = "Tomatoo",
+		label = "Tomate",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7683,8 +7683,8 @@ return {
 	},
 
 	["toolkit"] = {
-		label = "Tool Kit",
-		description = "You need this for crafting",
+		label = "Kit d'outils",
+		description = "Vous en avez besoin pour l'artisanat",
 		weight = 2000,
 		stack = true,
 		close = true,
@@ -7692,97 +7692,97 @@ return {
 	},
 
 	["TorsoF26"] = {
-		label = "Dress Female 26",
+		label = "Robe Femme 26",
 		weight = 100.0,
 		stack = true,
 		close = true,
-		description = "\"Beautiful Dress\"",
+		description = "\"Belle robe\"",
 		decay = true,
 		
 	},
 
 	["TorsoF3"] = {
-		label = "Dress Female 3",
+		label = "Robe Femme 3",
 		weight = 100.0,
 		stack = true,
 		close = true,
-		description = "\"Beautiful Dress\"",
+		description = "\"Belle robe\"",
 		decay = true,
 		
 	},
-
+-- ????????
 	["TorsoF328"] = {
 		label = "Sharee Female 328",
 		weight = 100.0,
 		stack = true,
 		close = true,
-		description = "\"Beautiful Dress \"",
+		description = "\"Belle robe \"",
 		decay = true,
 		
 	},
 
 	["TorsoF332"] = {
-		label = "Dress Female 332",
+		label = "Robe Femme 332",
 		weight = 100.0,
 		stack = true,
 		close = true,
-		description = "\"Beautiful Dress\"",
+		description = "\"Belle robe\"",
 		decay = true,
 		
 	},
 
 	["TorsoF333"] = {
-		label = "Dress Female 333",
+		label = "Robe Femme 333",
 		weight = 100.0,
 		stack = true,
 		close = true,
-		description = "\"Party Dress\"",
+		description = "\"Belle robe\"",
 		decay = true,
 		
 	},
 
 	["TorsoF46"] = {
-		label = "Dress Female 46",
+		label = "Robe Femme 46",
 		weight = 100.0,
 		stack = true,
 		close = true,
-		description = "\"Beautiful Dress \"",
+		description = "\"Belle robe \"",
 		decay = true,
 		
 	},
 
 	["TorsoF54"] = {
-		label = "Dress Female 54",
+		label = "Robe Female 54",
 		weight = 100.0,
 		stack = true,
 		close = true,
-		description = "\"Beautiful Dress\"",
+		description = "\"Belle robe\"",
 		decay = true,
 		
 	},
 
 	["TorsoF77"] = {
-		label = "Dress Female 77",
+		label = "Robe Female 77",
 		weight = 100.0,
 		stack = true,
 		close = true,
-		description = "\"Beautiful Dress \"",
+		description = "\"Belle robe \"",
 		decay = true,
 		
 	},
 
 	["TorsoF96"] = {
-		label = "Dress Female 96",
+		label = "Robe Female 96",
 		weight = 100.0,
 		stack = true,
 		close = true,
-		description = "\"Beautiful Dress\"",
+		description = "\"Belle robe\"",
 		decay = true,
 		
 	},
 
 	["trans1"] = {
-		label = "Original Transmission",
+		label = "Transmission d'origine",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7791,7 +7791,7 @@ return {
 	},
 
 	["trans2"] = {
-		label = "Transmission Lvl. 1",
+		label = "Transmission Niv. 1",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7800,7 +7800,7 @@ return {
 	},
 
 	["trans3"] = {
-		label = "Transmission Lvl. 2",
+		label = "Transmission Niv. 2",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7809,7 +7809,7 @@ return {
 	},
 
 	["trans4"] = {
-		label = "Transmission Lvl. 3",
+		label = "Transmission Niv. 3",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7818,7 +7818,7 @@ return {
 	},
 
 	["triple_meal_deal"] = {
-		label = "Chicken Biscuit",
+		label = "Biscuit au poulet",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7836,7 +7836,7 @@ return {
 	},
 
 	["tropical_chicken_salad"] = {
-		label = "Tropical Chicken Salad",
+		label = "Salade de poulet tropicale",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7845,7 +7845,7 @@ return {
 	},
 
 	["tropical_mango_slushie"] = {
-		label = "Tropical Mango Slushie",
+		label = "Glace à la mangue tropicale",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7854,7 +7854,7 @@ return {
 	},
 
 	["tuna"] = {
-		label = "Tuna",
+		label = "Thon",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7863,7 +7863,7 @@ return {
 	},
 
 	["turbo"] = {
-		label = "Turbo Kit",
+		label = "Kit turbo",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7872,7 +7872,7 @@ return {
 	},
 
 	["turboN"] = {
-		label = "Remove Turbo Kit",
+		label = "Démonter le kit turbo",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7881,7 +7881,7 @@ return {
 	},
 
 	["two_taco_supreme"] = {
-		label = "Two Taco Supreme",
+		label = "Suprême deux tacos",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7890,7 +7890,7 @@ return {
 	},
 
 	["t_diet_pepsi"] = {
-		label = "Diet Pepsi",
+		label = "Pepsi light",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7917,7 +7917,7 @@ return {
 	},
 
 	["t_tango_apple"] = {
-		label = "Tango Apple",
+		label = "Pomme Tango",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7935,7 +7935,7 @@ return {
 	},
 
 	["ultimate_pepperoni"] = {
-		label = "Ultimate Pepperoni",
+		label = "Pepperoni ultime",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7944,7 +7944,7 @@ return {
 	},
 
 	["uncut_diamond"] = {
-		label = "Uncut Diamond",
+		label = "Diamant non taillé",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -7952,7 +7952,7 @@ return {
 	},
 
 	["upeel_shrimp"] = {
-		label = "U-Peel Shrimp",
+		label = "Crevettes en U",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7961,7 +7961,7 @@ return {
 	},
 
 	["uvlight"] = {
-		label = "UV light",
+		label = "Lumière UV",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7969,7 +7969,7 @@ return {
 	},
 
 	["vanBottle"] = {
-		label = "Van Bottle",
+		label = "Bouteille de la camionnette",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7977,7 +7977,7 @@ return {
 	},
 
 	["vanDiamond"] = {
-		label = "Van Diamond",
+		label = "Diamant Van",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -7985,7 +7985,7 @@ return {
 	},
 
 	["vanilla_milkshake"] = {
-		label = "Vanilla Milkshake",
+		label = "Milkshake à la vanille",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -7994,7 +7994,7 @@ return {
 	},
 
 	["vanilla_shake"] = {
-		label = "Vanilla Shake",
+		label = "Milkshake à la vanille",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8003,7 +8003,7 @@ return {
 	},
 
 	["vanNecklace"] = {
-		label = "Van Necklace",
+		label = "Collier Van",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8011,7 +8011,7 @@ return {
 	},
 
 	["vanPanther"] = {
-		label = "Van Panther",
+		label = "Panthère Van",
 		weight = 3000,
 		stack = true,
 		close = true,
@@ -8027,7 +8027,7 @@ return {
 	},
 
 	["vape"] = {
-		label = "Vape",
+		label = "Vapeur",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8036,7 +8036,7 @@ return {
 	},
 
 	["veggie_sticks"] = {
-		label = "VEGGIE STICKS",
+		label = "BÂTONNETS DE LÉGUMES",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8054,7 +8054,7 @@ return {
 	},
 
 	["vine"] = {
-		label = "Vine",
+		label = "Vigne",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8090,7 +8090,7 @@ return {
 	},
 
 	["volcano_burrito_meal"] = {
-		label = "Volcano Burrito Meal",
+		label = "Repas burrito Volcano",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8099,7 +8099,7 @@ return {
 	},
 
 	["waffle_potato_chips"] = {
-		label = "Waffle Potato Chips",
+		label = "Pommes de terre gaufrées",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8108,7 +8108,7 @@ return {
 	},
 
 	["waffle_potato_fries"] = {
-		label = "Waffle Potato Fries",
+		label = "Gaufres de pommes de terre frites",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8126,7 +8126,7 @@ return {
 	},
 
 	["washed_stone"] = {
-		label = "Washed stone",
+		label = "Pierre lavée",
 		weight = 8000,
 		stack = true,
 		close = true,
@@ -8135,7 +8135,7 @@ return {
 	},
 
 	["watch_bracelet"] = {
-		label = "Watch Bracelet",
+		label = "Bracelet de montre",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8143,7 +8143,7 @@ return {
 	},
 
 	["watch_material"] = {
-		label = "Watch Material",
+		label = "Matériau de la montre",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8152,7 +8152,7 @@ return {
 	},
 
 	["water"] = {
-		label = "Water",
+		label = "Eau",
 		weight = 250.0,
 		stack = true,
 		close = true,
@@ -8168,7 +8168,7 @@ return {
 	},
 
 	["WEAPON_GARBAGEBAG"] = {
-		label = "Garbage Bag",
+		label = "Sac à ordures",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8176,7 +8176,7 @@ return {
 	},
 
 	["WEAPON_GRENADELAUNCHER_SMOKE"] = {
-		label = "SMOKE LAUNCHER",
+		label = "LANCEUR DE FUMÉE",
 		weight = 5000,
 		stack = true,
 		close = true,
@@ -8184,7 +8184,7 @@ return {
 	},
 
 	["WEAPON_HANDCUFFS"] = {
-		label = "Handcuffs",
+		label = "Menottes",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8200,7 +8200,7 @@ return {
 	},
 
 	["weddingring"] = {
-		label = "Wedding Ring",
+		label = "Anneau de mariage",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -8208,7 +8208,7 @@ return {
 	},
 
 	["weed_fertilizer"] = {
-		label = "Weed Fertilizer",
+		label = "Engrais pour mauvaises herbes",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8216,7 +8216,7 @@ return {
 	},
 
 	["weed_joint"] = {
-		label = "Weed Joint",
+		label = "Joint d'herbe",
 		weight = 10.0,
 		stack = true,
 		close = true,
@@ -8224,7 +8224,7 @@ return {
 	},
 
 	["weed_leaf"] = {
-		label = "Weed Leaf",
+		label = "Feuille d'herbe",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8232,14 +8232,14 @@ return {
 	},
 
 	["weed_pooch"] = {
-		label = "Weed Pooch",
+		label = "Pochon de weed",
 		weight = 800.0,
 		stack = true,
 		close = true,
 	},
 
 	["weed_pot"] = {
-		label = "Weed Pot",
+		label = "Pot à herbe",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8247,7 +8247,7 @@ return {
 	},
 
 	["weed_spray"] = {
-		label = "Weed Spray",
+		label = "Spray anti-mauvaises herbes",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8255,7 +8255,7 @@ return {
 	},
 
 	["wet_black_phone"] = {
-		label = "Wet Black Phone",
+		label = "Téléphone noir mouillé",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8263,7 +8263,7 @@ return {
 	},
 
 	["wet_blue_phone"] = {
-		label = "Wet Blue Phone",
+		label = "Téléphone bleu mouillé",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8271,7 +8271,7 @@ return {
 	},
 
 	["wet_classic_phone"] = {
-		label = "Wet Classic Phone",
+		label = "Téléphone classique humide",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8279,7 +8279,7 @@ return {
 	},
 
 	["wet_gold_phone"] = {
-		label = "Wet Gold Phone",
+		label = "Téléphone à or humide",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8287,7 +8287,7 @@ return {
 	},
 
 	["wet_greenlight_phone"] = {
-		label = "Wet Green Light Phone",
+		label = "Téléphone à feu vert humide",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8295,7 +8295,7 @@ return {
 	},
 
 	["wet_green_phone"] = {
-		label = "Wet Green Phone",
+		label = "Téléphone vert humide",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8303,7 +8303,7 @@ return {
 	},
 
 	["wet_phone"] = {
-		label = "Wet Phone",
+		label = "Téléphone mouillé",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8311,7 +8311,7 @@ return {
 	},
 
 	["wet_pink_phone"] = {
-		label = "Wet Pink Phone",
+		label = "Téléphone rose mouillé",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8319,7 +8319,7 @@ return {
 	},
 
 	["wet_red_phone"] = {
-		label = "Wet Red Phone",
+		label = "Téléphone rouge mouillé",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8327,7 +8327,7 @@ return {
 	},
 
 	["wet_white_phone"] = {
-		label = "Wet White Phone",
+		label = "Téléphone blanc mouillé",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8335,7 +8335,7 @@ return {
 	},
 
 	["whale"] = {
-		label = "Whale",
+		label = "Baleine",
 		weight = 800.0,
 		stack = true,
 		close = true,
@@ -8344,7 +8344,7 @@ return {
 	},
 
 	["wheelchair"] = {
-		label = "Wheelchair",
+		label = "Fauteuil roulant",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8362,7 +8362,7 @@ return {
 	},
 
 	["whitecherry_gelato"] = {
-		label = "Whitecherry Gelato",
+		label = "Gelato aux cerises blanches",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8371,7 +8371,7 @@ return {
 	},
 
 	["whitecherry_gelato_joint"] = {
-		label = "Whitecherry Gelato Joint",
+		label = "Joint Whitecherry Gelato",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8380,7 +8380,7 @@ return {
 	},
 
 	["white_grapes"] = {
-		label = "White Grapes",
+		label = "Raisins blancs",
 		weight = 250.0,
 		stack = true,
 		close = true,
@@ -8389,7 +8389,7 @@ return {
 	},
 
 	["white_phone"] = {
-		label = "White Phone",
+		label = "Téléphone blanc",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8397,7 +8397,7 @@ return {
 	},
 
 	["white_pressed_grapes"] = {
-		label = "White Pressed Grapes",
+		label = "Raisins de presse blancs",
 		weight = 300.0,
 		stack = true,
 		close = true,
@@ -8406,7 +8406,7 @@ return {
 	},
 
 	["white_rum"] = {
-		label = "White rum",
+		label = "Rhum blanc",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8415,7 +8415,7 @@ return {
 	},
 
 	["white_runtz"] = {
-		label = "White Runtz",
+		label = "Runtz blanc",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8424,7 +8424,7 @@ return {
 	},
 
 	["white_runtz_joint"] = {
-		label = "White Runtz Joint",
+		label = "Joint Runtz blanc",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8433,7 +8433,7 @@ return {
 	},
 
 	["white_stone"] = {
-		label = "White Stone",
+		label = "Pierre blanche",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8442,14 +8442,14 @@ return {
 	},
 
 	["white_wine"] = {
-		label = "White Wine",
+		label = "Vin blanc",
 		weight = 500.0,
 		stack = true,
 		close = true,
 	},
 
 	["whopper_with_cheese"] = {
-		label = "Triple Whopper with Cheese",
+		label = "Triple Whopper avec fromage",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8458,7 +8458,7 @@ return {
 	},
 
 	["win1"] = {
-		label = "Remove Window Tint",
+		label = "Enlever la teinte des vitres",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8467,7 +8467,7 @@ return {
 	},
 
 	["win2"] = {
-		label = "Light Smoke Window Tint",
+		label = "Teinte de vitre fumée claire",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8476,7 +8476,7 @@ return {
 	},
 
 	["win3"] = {
-		label = "Dark Smoke Window Tint",
+		label = "Teinte de vitre fumée foncée",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8485,7 +8485,7 @@ return {
 	},
 
 	["win4"] = {
-		label = "Limo Window Tint",
+		label = "Vitres teintées pour limousines",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8494,7 +8494,7 @@ return {
 	},
 
 	["wine"] = {
-		label = "Wine",
+		label = "Vin",
 		weight = 500.0,
 		stack = true,
 		close = true,
@@ -8510,7 +8510,7 @@ return {
 	},
 
 	["wing_combo"] = {
-		label = "LARGE 0.20 PC WING COMBO",
+		label = "GRAND 0,20 PC COMBO D'AILES",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8519,8 +8519,8 @@ return {
 	},
 
 	["wirecutter"] = {
-		label = "Wire Cutter",
-		description = "Remove GPS tracker from your car",
+		label = "Pince coupante",
+		description = "Supprimer le traceur GPS de votre voiture",
 		weight = 400.0,
 		stack = true,
 		close = true,
@@ -8538,7 +8538,7 @@ return {
 	},
 
 	["wood"] = {
-		label = "Wood",
+		label = "Bois",
 		weight = 5000,
 		stack = true,
 		close = true,
@@ -8547,7 +8547,7 @@ return {
 	},
 
 	["wool"] = {
-		label = "Wool",
+		label = "Laine",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8556,7 +8556,7 @@ return {
 	},
 
 	["workpermit"] = {
-		label = "Work Permit (Auto Repairs Mirror Park)",
+		label = "Permis de travail (Auto Repairs Mirror Park)",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -8565,7 +8565,7 @@ return {
 	},
 
 	["world_famous_fries"] = {
-		label = "World Famous Fries",
+		label = "Frites de renommée mondiale",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8574,7 +8574,7 @@ return {
 	},
 
 	["w_diet_coke"] = {
-		label = "Diet Coke",
+		label = "Coca light",
 		weight = 200.0,
 		stack = true,
 		close = true,
