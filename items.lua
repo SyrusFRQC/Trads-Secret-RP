@@ -8601,7 +8601,7 @@ return {
 	},
 
 	["w_ice_cola"] = {
-		label = "Ice Cola",
+		label = "Cola glacé",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8610,7 +8610,7 @@ return {
 	},
 
 	["w_medium_fanta_orange"] = {
-		label = "Ice Cola",
+		label = "Cola glacé",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8619,7 +8619,7 @@ return {
 	},
 
 	["w_medium_fanta_strawberry"] = {
-		label = "Medium Fanta Strawberry",
+		label = "Fanta moyen à la fraise",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8628,7 +8628,7 @@ return {
 	},
 
 	["w_medium_sprite"] = {
-		label = "Medium Sprite",
+		label = "Sprite moyen",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8637,7 +8637,7 @@ return {
 	},
 
 	["w_tango_apple"] = {
-		label = "Tango Apple",
+		label = "Pomme Tango",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8662,14 +8662,14 @@ return {
 	},
 
 	["xanax_box"] = {
-		label = "Xanax Box",
+		label = "Boîte de Xanax",
 		weight = 1000,
 		stack = true,
 		close = true,
 	},
 
 	["xenonsblacklight"] = {
-		label = "Blacklight Xenons",
+		label = "Xénons à lumière noire",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8678,7 +8678,7 @@ return {
 	},
 
 	["xenonsbleu"] = {
-		label = "Blue Xenons",
+		label = "Xénons bleus",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8687,7 +8687,7 @@ return {
 	},
 
 	["xenonsbleuelect"] = {
-		label = "Electric Blue Xenons",
+		label = "Xénons bleu électrique",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8696,7 +8696,7 @@ return {
 	},
 
 	["xenonsdefault"] = {
-		label = "White Xenons",
+		label = "Xénons blancs",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8705,7 +8705,7 @@ return {
 	},
 
 	["xenonsgold"] = {
-		label = "Gold Xenons",
+		label = "Xénons dorés",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8714,7 +8714,7 @@ return {
 	},
 
 	["xenonsjaune"] = {
-		label = "Yellow Xenons",
+		label = "Xénons jaunes",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8723,7 +8723,7 @@ return {
 	},
 
 	["xenonsmauve"] = {
-		label = "Purple Xenone",
+		label = "Xénone violet",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8732,7 +8732,7 @@ return {
 	},
 
 	["xenonsmenthe"] = {
-		label = "Mint Xenons",
+		label = "Xénons menthe",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8741,7 +8741,7 @@ return {
 	},
 
 	["xenonsorange"] = {
-		label = "Orange Xenons",
+		label = "Xénons orange",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8750,7 +8750,7 @@ return {
 	},
 
 	["xenonsrose"] = {
-		label = "Pink Xenons",
+		label = "Xénons roses",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8759,7 +8759,7 @@ return {
 	},
 
 	["xenonsrose2"] = {
-		label = "Hot Pink Xenons",
+		label = "Xénon rose vif",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8768,7 +8768,7 @@ return {
 	},
 
 	["xenonsrouge"] = {
-		label = "Red Xenons",
+		label = "Xénons rouges",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8777,7 +8777,7 @@ return {
 	},
 
 	["xenonsvert"] = {
-		label = "Green Xenons",
+		label = "Xénons verts",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8795,14 +8795,14 @@ return {
 	},
 
 	["xpills"] = {
-		label = "X-Pills",
+		label = "Pilules X",
 		weight = 10.0,
 		stack = true,
 		close = true,
 	},
 
 	["xray"] = {
-		label = "X-Ray Scanner",
+		label = "Scanner à rayons X",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8811,7 +8811,7 @@ return {
 	},
 
 	["yellow_shoes"] = {
-		label = "Yellow Shoes",
+		label = "Chaussures jaunes",
 		weight = 300.0,
 		stack = true,
 		close = true,
@@ -8820,7 +8820,7 @@ return {
 	},
 
 	["zetony"] = {
-		label = "Casino Chips",
+		label = "Jetons de casino",
 		weight = 2.0,
 		stack = true,
 		close = true,
@@ -8828,7 +8828,7 @@ return {
 	},
 
 	["zomo_cream"] = {
-		label = "Acai Cream Zomo",
+		label = "Crème d'açaï Zomo",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8837,7 +8837,7 @@ return {
 	},
 
 	["zomo_lemon"] = {
-		label = "Zomo Lemon Mint",
+		label = "Zomo citron menthe",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -8855,7 +8855,7 @@ return {
 	},
 
 	["zushi_joint"] = {
-		label = "Zushi Joint",
+		label = "Joint Zushi",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -8864,7 +8864,7 @@ return {
 	},
 
 	["chain"] = {
-		label = "Chain",
+		label = "Chaîne",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -8878,77 +8878,77 @@ return {
 	},
 
 	["key_cracklab"] = {
-		label = "Crack Lab Key",
+		label = "Craquer la clé du laboratoire",
 		weight = 100.0,
 		stack = true,
 		close = true,
 	},
 
 	["glass"] = {
-		label = "Glass",
+		label = "Verre",
 		weight = 100.0,
 		stack = true,
 		close = true,
 	},
 
 	["earring"] = {
-		label = "Earring",
+		label = "Boucle d'oreille",
 		weight = 100.0,
 		stack = true,
 		close = true,
 	},
 
 	["watch"] = {
-		label = "Watch",
+		label = "Regarder",
 		weight = 100.0,
 		stack = true,
 		close = true,
 	},
 
 	["torso"] = {
-		label = "Torso",
+		label = "Torse",
 		weight = 100.0,
 		stack = true,
 		close = true,
 	},
 
 	["hat"] = {
-		label = "Hat",
+		label = "Chapeau",
 		weight = 100,
 		stack = false,
 		close = true,
 	},
 
 	["mask"] = {
-		label = "Mask",
+		label = "Masque",
 		weight = 100,
 		stack = false,
 		close = true,
 	},
 	
 	["vest"] = {
-		label = "Vest",
+		label = "Gilet",
 		weight = 100,
 		stack = false,
 		close = true,
 	},
 
 	["methbrick"] = {
-		label = "Methbrick",
+		label = "Méthbrique",
 		weight = 1000,
 		stack = true,
 		close = true,
 	},
 
 	["weedbrick"] = {
-		label = "Weedbrick",
+		label = "Mauvaises herbes",
 		weight = 1000,
 		stack = true,
 		close = true,
 	},
 
 	["acidsupply"] = {
-		label = "Acid Supply",
+		label = "Approvisionnement en acide",
 		weight = 1000,
 		stack = true,
 		close = true,
