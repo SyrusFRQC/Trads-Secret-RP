@@ -1330,7 +1330,7 @@ return {
 	},
 
 	["cardholder"] = {
-		label = "Card Holder",
+		label = "Porte-cartes",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -1338,7 +1338,7 @@ return {
 	},
 
 	["carkey"] = {
-		label = "Car Key",
+		label = "Clé de voiture",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -1346,8 +1346,8 @@ return {
 	},
 
 	["carokit"] = {
-		label = "Carokit",
-		description = "Fix engine damage",
+		label = "Kit de réparation de voiture",
+		description = "Réparer les dommages moteur",
 		weight = 2000,
 		stack = true,
 		close = true,
@@ -1355,7 +1355,7 @@ return {
 	},
 
 	["carotool"] = {
-		label = "Tools",
+		label = "Outils",
 		weight = 2000,
 		stack = true,
 		close = true,
@@ -1363,8 +1363,9 @@ return {
 		
 	},
 
+-- Est-ce une erreur ou est-ce normal ?
 	["carte_biscuit"] = {
-		label = "ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ la Carte Biscuit",
+		label = "ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ la Carte Biscuit", 
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1373,7 +1374,7 @@ return {
 	},
 
 	["casino_earrings"] = {
-		label = "Casino Earrings",
+		label = "Boucles d'oreilles de casino",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1391,7 +1392,7 @@ return {
 	},
 
 	["cereal_milk"] = {
-		label = "Cereal Milk",
+		label = "Lait de céréales",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1400,7 +1401,7 @@ return {
 	},
 
 	["cereal_milk_joint"] = {
-		label = "Cereal Milk Joint",
+		label = "Joint au lait de céréales",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1409,7 +1410,7 @@ return {
 	},
 
 	["chain_bracelet"] = {
-		label = "Chain Bracelet",
+		label = "Bracelet chaîne",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -1417,7 +1418,7 @@ return {
 	},
 
 	["chain_dogtag"] = {
-		label = "Chain Dogtag",
+		label = "Plaque d'identification avec chaîne",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1426,7 +1427,7 @@ return {
 	},
 
 	["chain_is"] = {
-		label = "Chain IS",
+		label = "Chaîne IS",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1435,7 +1436,7 @@ return {
 	},
 
 	["chain_ls"] = {
-		label = "Chain LS",
+		label = "Chaîne LS",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1444,7 +1445,7 @@ return {
 	},
 
 	["chain_m"] = {
-		label = "Chain M",
+		label = "Chaîne M",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1453,7 +1454,7 @@ return {
 	},
 
 	["chain_medal"] = {
-		label = "Chain Medal",
+		label = "Médaille à chaîne",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1462,7 +1463,7 @@ return {
 	},
 
 	["chain_richman"] = {
-		label = "Chain Richman",
+		label = "Chaîne Richman",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1471,7 +1472,7 @@ return {
 	},
 
 	["chain_triangle"] = {
-		label = "Chain Triangle",
+		label = "Chaîne triangle",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1498,7 +1499,7 @@ return {
 	},
 
 	["cheap_lighter"] = {
-		label = "Cheap Lighter",
+		label = "Briquet bon marché",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -1507,7 +1508,7 @@ return {
 	},
 
 	["cheesebows"] = {
-		label = "Cheese Bows",
+		label = "Noeuds de fromage",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -1516,7 +1517,7 @@ return {
 	},
 
 	["cheeseburger_combo_meal"] = {
-		label = "Cheeseburger Combo Meal",
+		label = "Menu Cheeseburger",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1525,7 +1526,7 @@ return {
 	},
 
 	["cheeseburger_king_jr"] = {
-		label = "Cheeseburger King Jr Meal",
+		label = "Menu Cheeseburger King Junior",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1534,7 +1535,7 @@ return {
 	},
 
 	["cheese_fries"] = {
-		label = "CHEESE FRIES",
+		label = "Frites au fromage",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1552,7 +1553,7 @@ return {
 	},
 
 	["cheese_sauce"] = {
-		label = "CHEESE SAUCE",
+		label = "SAUCE AU FROMAGE",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1561,7 +1562,7 @@ return {
 	},
 
 	["cheesy_black_bean"] = {
-		label = "Cheesy Black Bean",
+		label = "Haricots noirs au fromage",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1579,7 +1580,7 @@ return {
 	},
 
 	["cheesy_tots"] = {
-		label = "Cheesy Tots",
+		label = "Boules de fromage",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1588,7 +1589,7 @@ return {
 	},
 
 	["cheetah_piss"] = {
-		label = "Cheetah Piss",
+		label = "Pisse de guépard",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1597,7 +1598,7 @@ return {
 	},
 
 	["cheetah_piss_joint"] = {
-		label = "Cheetah Piss Joint",
+		label = "Joint de Pisse de Guépard",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1606,7 +1607,7 @@ return {
 	},
 
 	["chemicals"] = {
-		label = "Chemicals",
+		label = "Produits chimiques",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -1631,7 +1632,7 @@ return {
 	},
 
 	["chicken_biscuit"] = {
-		label = "Chicken Biscuit",
+		label = "Biscuit au poulet",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1640,7 +1641,7 @@ return {
 	},
 
 	["chicken_bundle"] = {
-		label = "0.20.2Pc Chicken Bundle",
+		label = "0.20.2Pc Paquet de poulet",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1649,7 +1650,7 @@ return {
 	},
 
 	["chicken_burrito"] = {
-		label = "Chicken Burrito",
+		label = "Burrito au poulet",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1658,7 +1659,7 @@ return {
 	},
 
 	["chicken_caesar_salad"] = {
-		label = "Chicken Caesar Salad",
+		label = "Salade César au poulet",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1667,7 +1668,7 @@ return {
 	},
 
 	["chicken_carbonara"] = {
-		label = "Chicken Carbonara",
+		label = "Poulet Carbonara",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1676,7 +1677,7 @@ return {
 	},
 
 	["chicken_club_sandwich"] = {
-		label = "Chicken Club Sandwich",
+		label = "Club sandwich au poulet",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1685,7 +1686,7 @@ return {
 	},
 
 	["chicken_egg_cheese"] = {
-		label = "Chicken, Egg & Cheese Biscuit",
+		label = "Biscuit au poulet, aux œufs et au fromage",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1694,7 +1695,7 @@ return {
 	},
 
 	["chicken_family_meal"] = {
-		label = "0.26Pc Chicken Family Meal Classic",
+		label = "0.26Pc Poulet Repas Familial Classique",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1703,7 +1704,7 @@ return {
 	},
 
 	["chicken_fries"] = {
-		label = "9 pc Chicken Fries",
+		label = "9 frites de poulet mcx",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1712,7 +1713,7 @@ return {
 	},
 
 	["chicken_habanero"] = {
-		label = "Chicken Habanero",
+		label = "Poulet Habanero",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1721,7 +1722,7 @@ return {
 	},
 
 	["chicken_mcnuggets"] = {
-		label = "Chicken McNuggets",
+		label = "McNuggets de poulet",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1730,7 +1731,7 @@ return {
 	},
 
 	["chicken_noodle_soup"] = {
-		label = "Chicken Noodle Soup",
+		label = "Soupe au poulet et aux nouilles",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1739,7 +1740,7 @@ return {
 	},
 
 	["chicken_nuggets"] = {
-		label = "Chicken Nuggets",
+		label = "Croquettes de poulet",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1748,7 +1749,7 @@ return {
 	},
 
 	["chicken_parm"] = {
-		label = "Chicken Parm",
+		label = "Poulet Parm",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1757,7 +1758,7 @@ return {
 	},
 
 	["chicken_sandwich"] = {
-		label = "Chicken Sandwich",
+		label = "Sandwich au poulet",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1766,7 +1767,7 @@ return {
 	},
 
 	["chick_fil_a_lemonade"] = {
-		label = "Chick-fil-A Lemonade",
+		label = "Limonade Chick-fil-A",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1775,7 +1776,7 @@ return {
 	},
 
 	["chick_fil_a_nuggets"] = {
-		label = "Chick-fil-A Nuggets",
+		label = "Croquettes Chick-fil-A",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1784,7 +1785,7 @@ return {
 	},
 
 	["chick_n_minis"] = {
-		label = "Chick-n-Minis",
+		label = "Mini poulet",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1793,7 +1794,7 @@ return {
 	},
 
 	["chick_n_strips"] = {
-		label = "Chick-n-Strips",
+		label = "Lanière de poulet",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1802,7 +1803,7 @@ return {
 	},
 
 	["chilled_premium_lemonade"] = {
-		label = "Chilled Premium Lemonade",
+		label = "Limonade Premium réfrigérée",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1811,7 +1812,7 @@ return {
 	},
 
 	["chocolate"] = {
-		label = "Chocolate",
+		label = "Chocolat",
 		weight = 250.0,
 		stack = true,
 		close = true,
@@ -1820,7 +1821,7 @@ return {
 	},
 
 	["chocolate_chunk_brownie"] = {
-		label = "TRIPLE CHOCOLATE CHUNK BROWNIE",
+		label = "BROWNIE AUX MORCEAUX DE CHOCOLAT TRIPLE",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1829,7 +1830,7 @@ return {
 	},
 
 	["chocolate_chunk_cookie"] = {
-		label = "Chocolate Chunk Cookie",
+		label = "Biscuit aux pépites de chocolat",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1838,7 +1839,7 @@ return {
 	},
 
 	["chocolate_cookie_shake"] = {
-		label = "Chocolate OREO Cookie Shake",
+		label = "Biscuit frappé OREO au chocolat",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1847,7 +1848,7 @@ return {
 	},
 
 	["chocolate_fudge_brownie"] = {
-		label = "Chocolate Fudge Brownie",
+		label = "Brownie au chocolat fondant",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1856,7 +1857,7 @@ return {
 	},
 
 	["chocolate_milk"] = {
-		label = "Chocolate Milk",
+		label = "Lait au chocolat",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1865,7 +1866,7 @@ return {
 	},
 
 	["chocolate_milkshake"] = {
-		label = "Chocolate Milkshake",
+		label = "Milkshake au chocolat",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1874,7 +1875,7 @@ return {
 	},
 
 	["chocolate_shake"] = {
-		label = "Chocolate Shake",
+		label = "Shake au chocolat",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1893,7 +1894,7 @@ return {
 	},
 
 	["churros_dip"] = {
-		label = "Churros Dip",
+		label = "Trempette aux churros",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1902,7 +1903,7 @@ return {
 	},
 
 	["cinnamon_apple_pie"] = {
-		label = "Cinnamon Apple Pie",
+		label = "Tarte aux pommes à la cannelle",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1911,7 +1912,7 @@ return {
 	},
 
 	["cinnamon_twists"] = {
-		label = "Cinnamon Twists",
+		label = "Torsades à la cannelle",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1920,7 +1921,7 @@ return {
 	},
 
 	["classic_chicken_sandwich"] = {
-		label = "Classic Chicken Sandwich",
+		label = "Sandwich au poulet classique",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1929,7 +1930,7 @@ return {
 	},
 
 	["classic_phone"] = {
-		label = "Classic Phone",
+		label = "Téléphone classique",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -1937,7 +1938,7 @@ return {
 	},
 
 	["classic_signature_chicken"] = {
-		label = "Classic Signature Chicken",
+		label = "Poulet Signature Classique",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1946,7 +1947,7 @@ return {
 	},
 
 	["classic_wings_combo"] = {
-		label = "CLASSIC WINGS COMBO",
+		label = "COMBO AILES CLASSIQUES",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1955,7 +1956,7 @@ return {
 	},
 
 	["clothe"] = {
-		label = "Cloth",
+		label = "Tissu",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -1973,7 +1974,7 @@ return {
 	},
 
 	["coals"] = {
-		label = "Shisha Coals",
+		label = "Charbons de chicha",
 		weight = 500.0,
 		stack = true,
 		close = true,
@@ -1981,7 +1982,7 @@ return {
 	},
 
 	["cobb_salad"] = {
-		label = "Cobb Salad",
+		label = "Salade Cobb",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1990,14 +1991,14 @@ return {
 	},
 
 	["cocaine"] = {
-		label = "Cocaine",
+		label = "Cocaïne",
 		weight = 80.0,
 		stack = true,
 		close = true,
 	},
 
 	["coca_leaf"] = {
-		label = "Coca Leaf",
+		label = "Coca",
 		weight = 20.0,
 		stack = true,
 		close = true,
@@ -2006,7 +2007,7 @@ return {
 	},
 
 	["coconut_milk"] = {
-		label = "Coconut milk",
+		label = "Lait de coco",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2015,14 +2016,14 @@ return {
 	},
 
 	["codeine"] = {
-		label = "Codeine",
+		label = "Codéine",
 		weight = 250.0,
 		stack = true,
 		close = true,
 	},
 
 	["coffee"] = {
-		label = "Coffee",
+		label = "Café",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2031,7 +2032,7 @@ return {
 	},
 
 	["cointreau"] = {
-		label = "Cointreau",
+		label = "Triple sec",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2040,21 +2041,21 @@ return {
 	},
 
 	["cokebrick"] = {
-		label = "Coke Brick",
+		label = "Brique de coke",
 		weight = 3000,
 		stack = true,
 		close = true,
 	},
 
 	["coke_pooch"] = {
-		label = "Coke Pooch",
+		label = "Chien de Coke",
 		weight = 200.0,
 		stack = true,
 		close = true,
 	},
 
 	["coke_rail"] = {
-		label = "Coke Rail",
+		label = "Rail de coke",
 		weight = 10.0,
 		stack = true,
 		close = true,
@@ -2063,7 +2064,7 @@ return {
 	},
 
 	["cold_brew"] = {
-		label = "COLD BREW",
+		label = "INFUSION FROIDE",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2081,7 +2082,7 @@ return {
 	},
 
 	["collins_ave_joint"] = {
-		label = "Collins AVE Joint",
+		label = "Joint de l'Avenue Collins",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2090,7 +2091,7 @@ return {
 	},
 
 	["combo_chicken_mc"] = {
-		label = "Combo Chicken McNuggets",
+		label = "Menu Chicken McNuggets",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2099,7 +2100,7 @@ return {
 	},
 
 	["condom"] = {
-		label = "Condom",
+		label = "Préservatif",
 		weight = 10.0,
 		stack = true,
 		close = true,
@@ -2108,7 +2109,7 @@ return {
 	},
 
 	["cookies_cream_milkshake"] = {
-		label = "Cookies & Cream Milkshake",
+		label = "Milkshake Biscuits & Crème",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2117,7 +2118,7 @@ return {
 	},
 
 	["cookies_cream_milkshake."] = {
-		label = "Cookies & Cream Milkshake",
+		label = "Milkshake Biscuits & Crème",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2126,7 +2127,7 @@ return {
 	},
 
 	["cookie_craze"] = {
-		label = "Cookie Craze",
+		label = "L’engouement pour les biscuits",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2135,7 +2136,7 @@ return {
 	},
 
 	["cookie_shake"] = {
-		label = "OREO Cookie Shake",
+		label = "Shake aux biscuits OREO",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2144,7 +2145,7 @@ return {
 	},
 
 	["cool_wrap"] = {
-		label = "Cool Wrap",
+		label = "Enveloppement réfrigérant",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2153,7 +2154,7 @@ return {
 	},
 
 	["copper"] = {
-		label = "Copper",
+		label = "Cuivre",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2163,7 +2164,7 @@ return {
 	},
 
 	["cosmopolitan"] = {
-		label = "Cosmopolitan",
+		label = "Cosmopolite",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2172,7 +2173,7 @@ return {
 	},
 
 	["covgari_gold"] = {
-		label = "Covgari Gold",
+		label = "Covgari Or",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2180,14 +2181,14 @@ return {
 	},
 
 	["crab"] = {
-		label = "crab",
+		label = "crabe",
 		weight = 200.0,
 		stack = true,
 		close = true,
 	},
 
 	["crab_cakes"] = {
-		label = "Crab Cakes",
+		label = "Beignets de crabe",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2196,7 +2197,7 @@ return {
 	},
 
 	["crab_legs_meal"] = {
-		label = "Crab Legs Meal",
+		label = "Repas de pattes de crabe",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -2205,28 +2206,28 @@ return {
 	},
 
 	["crab_packed"] = {
-		label = "crab packed",
+		label = "crabe emballé",
 		weight = 700.0,
 		stack = true,
 		close = true,
 	},
 
 	["crack"] = {
-		label = "Crack",
+		label = "Fissure",
 		weight = 200.0,
 		stack = true,
 		close = true,
 	},
 
 	["crack_pooch"] = {
-		label = "Crack Pooch",
+		label = "Chien de crack",
 		weight = 200.0,
 		stack = true,
 		close = true,
 	},
 
 	["cranberry_juice"] = {
-		label = "Cranberry juice",
+		label = "Jus de cranberry",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -2235,7 +2236,7 @@ return {
 	},
 
 	["crispy_chicken_sandwich"] = {
-		label = "Crispy Chicken Sandwich",
+		label = "Sandwich au poulet croustillant",
 		weight = 200.0,
 		stack = true,
 		close = true,
