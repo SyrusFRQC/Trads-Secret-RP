@@ -1214,7 +1214,7 @@ return {
 	},
 
 	["butter_cookie"] = {
-		label = "Butter Cookie",
+		label = "Biscuit au beurre",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1223,7 +1223,7 @@ return {
 	},
 
 	["c4_bomb"] = {
-		label = "C4 Bomb",
+		label = "Bombe C4",
 		weight = 600.0,
 		stack = true,
 		close = true,
@@ -1259,7 +1259,7 @@ return {
 	},
 
 	["cajun_fried_corn"] = {
-		label = "CAJUN FRIED CORN",
+		label = "Maïs frit à la cajun",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1268,7 +1268,7 @@ return {
 	},
 
 	["cajun_fries"] = {
-		label = "Regular Cajun Fries",
+		label = "Frites cajun classiques",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1277,7 +1277,7 @@ return {
 	},
 
 	["cake_mix"] = {
-		label = "Cake Mix",
+		label = "Mélange à gâteau",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -1286,7 +1286,7 @@ return {
 	},
 
 	["cake_mix_joint"] = {
-		label = "Cake Mix Joint",
+		label = "Mélange de Space Cake",
 		weight = 200.0,
 		stack = true,
 		close = true,
