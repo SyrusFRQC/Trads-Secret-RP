@@ -4886,7 +4886,7 @@ return {
 	},
 
 	["marshmallow_crisp"] = {
-		label = "Marshmallow Crisp",
+		label = "Croustillant de guimauve",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -4895,14 +4895,14 @@ return {
 	},
 
 	["marshmallow_og"] = {
-		label = "Marshmallow OG",
+		label = "Guimauve OG",
 		weight = 200.0,
 		stack = true,
 		close = true,
 		decay = true,
 		
 	},
-
+-- Idem
 	["marshmallow_og_joint"] = {
 		label = "Marshmallow OG Joint",
 		weight = 400.0,
@@ -4913,7 +4913,7 @@ return {
 	},
 
 	["mashed_potatoes"] = {
-		label = "Regular Mashed Potatoes with Cajun Gravy",
+		label = "Purée de pommes de terre ordinaire avec sauce cajun",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -4940,7 +4940,7 @@ return {
 	},
 
 	["mc_combo_chicken"] = {
-		label = "Combo Chicken",
+		label = "Combo de poulet",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -4949,7 +4949,7 @@ return {
 	},
 
 	["mc_diet_coke"] = {
-		label = "Diet Coke",
+		label = "Coca light",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -4976,7 +4976,7 @@ return {
 	},
 
 	["mc_flurry_candies"] = {
-		label = "McFlurry Candies",
+		label = "Bonbons McFlurry",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -4985,7 +4985,7 @@ return {
 	},
 
 	["mc_flurry_cookies"] = {
-		label = "McFlurry Cookies",
+		label = "Biscuits McFlurry",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -4994,7 +4994,7 @@ return {
 	},
 
 	["mc_fruit_punch"] = {
-		label = "Fruit Punch",
+		label = "Punch aux fruits",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5003,7 +5003,7 @@ return {
 	},
 
 	["mc_hot_chocolate"] = {
-		label = "Hot Chocolate",
+		label = "Chocolat chaud",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5012,7 +5012,7 @@ return {
 	},
 
 	["mc_iced_coffee"] = {
-		label = "Iced Coffee",
+		label = "Café glacé",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5021,7 +5021,7 @@ return {
 	},
 
 	["mc_iced_tea"] = {
-		label = "Iced Tea",
+		label = "Thé glacé",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5048,7 +5048,7 @@ return {
 	},
 
 	["mc_strawberry_shake"] = {
-		label = "Strawberry Shake",
+		label = "Milk-shake à la fraise",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5057,7 +5057,7 @@ return {
 	},
 
 	["mc_vanilla_shake"] = {
-		label = "Vanilla Shake",
+		label = "Milk-shake à la vanille",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5075,7 +5075,7 @@ return {
 	},
 
 	["md_seltzer_water"] = {
-		label = "MD Seltzer Water",
+		label = "Eau de mer MD",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5084,7 +5084,7 @@ return {
 	},
 
 	["meal_for_two"] = {
-		label = "0.25PC MEAL FOR 2",
+		label = "0,25PC REPAS POUR 2 PERSONNES",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5093,7 +5093,7 @@ return {
 	},
 
 	["meatball"] = {
-		label = "Meatball",
+		label = "Boulettes de viande",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -5102,7 +5102,7 @@ return {
 	},
 
 	["meat_zza"] = {
-		label = "Meat ZZa",
+		label = "Viande ZZa",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5111,7 +5111,7 @@ return {
 	},
 
 	["medicalbag"] = {
-		label = "Medical Bag",
+		label = "Sac médical",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -5120,7 +5120,7 @@ return {
 	},
 
 	["medicinebox"] = {
-		label = "Medicine Box",
+		label = "Boîte à pharmacie",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -5129,7 +5129,7 @@ return {
 	},
 
 	["medikit"] = {
-		label = "Medikit",
+		label = "Médicament",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -5138,7 +5138,7 @@ return {
 	},
 
 	["mediterranean_veggie"] = {
-		label = "Mediterranean Veggie",
+		label = "Légumes méditerranéens",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5147,7 +5147,7 @@ return {
 	},
 
 	["medium_coca_cola"] = {
-		label = "Medium Coca-Cola",
+		label = "Coca-Cola moyen",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5156,7 +5156,7 @@ return {
 	},
 
 	["medium_diet_coke"] = {
-		label = "Medium Diet Coke",
+		label = "Coca light moyen",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5165,7 +5165,7 @@ return {
 	},
 
 	["medium_fanta_orange"] = {
-		label = "Medium Fanta Orange",
+		label = "Fanta Orange moyen",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5174,7 +5174,7 @@ return {
 	},
 
 	["medium_fanta_strawberry"] = {
-		label = "Medium Fanta Strawberry",
+		label = "Fanta moyen à la fraise",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5183,7 +5183,7 @@ return {
 	},
 
 	["medium_hawaiian_punch"] = {
-		label = "Medium Hawaiian Punch",
+		label = "Punch hawaïen moyen",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5192,7 +5192,7 @@ return {
 	},
 
 	["medium_sprite"] = {
-		label = "Medium Sprite",
+		label = "Sprite moyen",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5201,7 +5201,7 @@ return {
 	},
 
 	["medium_sweet_tea"] = {
-		label = "Medium Sweet Tea",
+		label = "Thé moyennement sucré",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5210,7 +5210,7 @@ return {
 	},
 
 	["medium_tropicana_lemonade"] = {
-		label = "Medium Tropicana Lemonade",
+		label = "Citronnade Tropicana moyenne",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5219,7 +5219,7 @@ return {
 	},
 
 	["memphis_bbq_chicken"] = {
-		label = "Memphis BBQ Chicken",
+		label = "Poulet BBQ de Memphis",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5228,7 +5228,7 @@ return {
 	},
 
 	["meth"] = {
-		label = "Meth",
+		label = "Méthodes",
 		weight = 100.0,
 		stack = true,
 		close = true,
@@ -5246,21 +5246,21 @@ return {
 	},
 
 	["meth_pooch"] = {
-		label = "Meth Pooch",
+		label = "Le chien à la méthamphétamine",
 		weight = 1000,
 		stack = true,
 		close = true,
 	},
 
 	["meth_raw"] = {
-		label = "Meth Raw",
+		label = "Méthamphétamine brute",
 		weight = 12.0,
 		stack = true,
 		close = true,
 	},
 
 	["meth_shot"] = {
-		label = "Meth Shot",
+		label = "Prise de méthamphétamine",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5269,7 +5269,7 @@ return {
 	},
 
 	["mifepristone"] = {
-		label = "Mifepristone",
+		label = "Mifépristone",
 		weight = 10.0,
 		stack = true,
 		close = true,
@@ -5278,7 +5278,7 @@ return {
 	},
 
 	["mild_tenders_box"] = {
-		label = "0.20Pc Mild Tenders Box",
+		label = "0.20Boîte de Tenders doux",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5287,7 +5287,7 @@ return {
 	},
 
 	["mild_tenders_bundle"] = {
-		label = "0.20Pc Mild Tenders Bundle",
+		label = "0.20Pc Paquet de tenders",
 		weight = 200.0,
 		stack = true,
 		close = true,
@@ -5305,7 +5305,7 @@ return {
 	},
 
 	["mint"] = {
-		label = "Mint",
+		label = "Menthe",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -5314,7 +5314,7 @@ return {
 	},
 
 	["mint_julep"] = {
-		label = "Mint Julep",
+		label = "Julep à la menthe",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -5350,21 +5350,21 @@ return {
 	},
 
 	["molly_pooch"] = {
-		label = "Molly Pooch",
+		label = "Le chien Molly",
 		weight = 1000,
 		stack = true,
 		close = true,
 	},
 
 	["molly_tablet"] = {
-		label = "Molly Tablet",
+		label = "Tablette de Molly",
 		weight = 50.0,
 		stack = true,
 		close = true,
 	},
 
 	["money"] = {
-		label = "Cash",
+		label = "Argent liquide",
 		weight = 0,
 		stack = true,
 		close = true,
@@ -5372,7 +5372,7 @@ return {
 	},
 
 	["moneyshot"] = {
-		label = "Moneyshot",
+		label = "Coup d'éclat",
 		weight = 1000,
 		stack = true,
 		close = true,
@@ -5381,7 +5381,7 @@ return {
 	},
 
 	["monkey_mask"] = {
-		label = "Monkey Mask",
+		label = "Masque de singe",
 		weight = 300.0,
 		stack = true,
 		close = true,
@@ -5390,7 +5390,7 @@ return {
 	},
 
 	["moon_rock"] = {
-		label = "Moon Rock",
+		label = "Rocher lunaire",
 		weight = 200.0,
 		stack = true,
 		close = true,
